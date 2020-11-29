@@ -11,10 +11,14 @@ $color-grey-dark-1: #54483a;
 $color-grey-dark-2: #6d5d4b;
 
 $color-white: #fff;
+$color-black: #000;
 
 // FONT VARIABLES
 $font-primary: "Nunito", sans-serif;
 $font-display: "Josefin Sans", sans-serif;
+
+//  IMAGE SHADOW
+$shadow-image: 0 2rem 5rem rgba($color-black, 0.25);
 
 *,
 *::before,
